@@ -22,7 +22,7 @@ nav img {
   width: 150px;
 }
 .nav-links {
-  flex: 1;
+  flex: 5;
   text-align: right;
 }
 .nav-links ul li {
